@@ -2,5 +2,5 @@
 * Anastasiya Zaitsava
 * Phone number - +375(29)-864-23-13
 * JS, React, CSS, HTML, Git, Figma, Photoshop, ES6
-* I study at BSUIR, graduated from "MRK UO BGUIR", I have been working at IBA for 2 years
+* Education - I study at BSUIR, graduated from "MRK UO BGUIR", I have been working at IBA for 2 years
 * English -Intermediate
